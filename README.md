@@ -4,9 +4,9 @@ A repository set up to do quick TDD practice in JavaScript
 ## Setup
 1. clone the repo
 2. cd in **tdd-practice**
-3. install npm package
+3. install npm package:
 	```$ npm install```
-4. run tests
+4. run tests:
 	```$ npm test```
 
 ## Add New Tests
