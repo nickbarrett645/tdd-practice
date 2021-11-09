@@ -1,3 +1,3 @@
-const arrayIndex = ( arr, index ) => arr.indexOf(index);
+const fizzbuzz = require('./version1');
 
-exports.arrayIndex = arrayIndex;
+fizzbuzz()
