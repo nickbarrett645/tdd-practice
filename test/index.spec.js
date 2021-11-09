@@ -1,10 +1,9 @@
 const expect = require('chai').expect;
+const sinon = require('sinon');
 const index = require('../index');
 
-describe('Array', () => {
-    describe( '#indexOf()', () => {
-        it('should return -1 when the value is not present', () =>  {
-            expect(index.arrayIndex([1,2,3], 4)).to.equal(-1);
-        });
+describe('FizzBuzz V. 1', () => {
+    describe( 'when calling fizzbuzz', () => {
+
     });
 });
