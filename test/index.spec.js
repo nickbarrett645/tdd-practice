@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 const sinon = require('sinon');
-const index = require('../index');
+const fizzbuzz = require('../version1').fizzbuzz;
 
 describe('FizzBuzz V. 1', () => {
     describe( 'when calling fizzbuzz', () => {
